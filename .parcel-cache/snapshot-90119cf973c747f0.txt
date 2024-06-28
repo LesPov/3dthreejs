@@ -1,12 +1,12 @@
-1105
+1108
 91C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\lights133640265567270600 1
 99C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\textures\DataTexture.js133640265523839873 0
 65C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\package.json133640265599552624 0
+108C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\helpers\HemisphereLightHelper.js133640265543448807 0
+110C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\WebGLCubeRenderTarget.js133640265584753277 0
 101C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\renderers\common133640265580138302 1
-57C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\dist133640266757169429 1
+57C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\dist133640612151138613 1
 109C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\textures\CompressedCubeTexture.js133640265519717125 0
-75C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\dist\index.e82f28a0.js133640266756737660 0
-113C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\postprocessing\GlitchPass.js133640265530237452 0
 90C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\math\Sphere.js133640265572866150 0
 127C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\renderers\webgpu\nodes\WGSLNodeFunction.js133640265588175913 0
 86C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\geometries133640265588365061 1
@@ -21,16 +21,16 @@
 84C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\package.json133640265593976493 0
 110C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\objects\GroundedSkybox.js133640265542089757 0
 113C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\webgl\WebGLBindingStates.js133640265583762747 0
-104C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\extras\curves\SplineCurve.js133640265573028836 0
 106C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\shaders\GTAOShader.js133640265542672854 0
-56C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\src133640217288542996 1
-67C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\src\index.html133640266729496428 0
-100C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\audio\PositionalAudio.js133640265565649128 0
+104C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\extras\curves\SplineCurve.js133640265573028836 0
+56C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\src133640600322640956 1
 91C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\curves133640265561175377 1
 59C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\src\js133640217350422832 1
-69C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\src\js\script.js133640263973586488 0
+69C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\src\js\script.js133640612130255883 0
 111C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\nodes\core\UniformGroup.js133640265580038647 0
 107C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\nodes\code\CodeNode.js133640265518660472 0
+67C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\src\index.html133640597931723370 0
+100C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\audio\PositionalAudio.js133640265565649128 0
 71C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three133640265594319829 1
 84C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\.package-lock.json133640265606520948 0
 108C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\nodes\core\CacheNode.js133640265516442910 0
@@ -123,6 +123,12 @@
 106C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\webgl\WebGLShader.js133640265585931731 0
 105C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\geometries\CapsuleGeometry.js133640265517200950 0
 83C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\objects133640265573361161 1
+111C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\shaders\DotScreenShader.js133640265525208437 0
+92C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\extras\Earcut.js133640265526678021 0
+111C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\WebGLArrayRenderTarget.js133640265583386823 0
+112C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\nodes\core\AttributeNode.js133640265509292737 0
+126C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\shaders\ShaderChunk\fog_fragment.glsl.js133640265528719968 0
+99C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\extras\curves\Curves.js133640265523487717 0
 110C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\textures\CompressedArrayTexture.js133640265519677138 0
 85C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers133640265587832032 1
 105C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\misc\MD2Character.js133640265555473121 0
@@ -131,6 +137,7 @@
 129C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\renderers\webgpu\utils\WebGPUBindingUtils.js133640265587227053 0
 110C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\shaders\UniformsUtils.js133640265580410041 0
 82C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\scenes133640265569928591 1
+108C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\WebGL3DRenderTarget.js133640265583284069 0
 84C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\textures133640265581968706 1
 105C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\textures\CompressedTexture.js133640265519769027 0
 107C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\renderers\common\nodes133640265560204467 1
@@ -155,15 +162,6 @@
 96C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\interactive133640265570367088 1
 125C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\nodes\accessors\MaterialReferenceNode.js133640265554802506 0
 91C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\webgl133640265586836095 1
-108C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\WebGL3DRenderTarget.js133640265583284069 0
-111C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\shaders\DotScreenShader.js133640265525208437 0
-92C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\extras\Earcut.js133640265526678021 0
-111C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\WebGLArrayRenderTarget.js133640265583386823 0
-112C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\nodes\core\AttributeNode.js133640265509292737 0
-126C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\shaders\ShaderChunk\fog_fragment.glsl.js133640265528719968 0
-99C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\extras\curves\Curves.js133640265523487717 0
-108C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\helpers\HemisphereLightHelper.js133640265543448807 0
-110C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\WebGLCubeRenderTarget.js133640265584753277 0
 102C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\WebGLRenderer.js133640265585656987 0
 115C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\animation\tracks\NumberKeyframeTrack.js133640265560960460 0
 102C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\offscreen\jank.js133640265546977735 0
@@ -188,8 +186,8 @@
 108C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\interactive\HTMLMesh.js133640265544724164 0
 110C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\webgl\WebGLAttributes.js133640265583440525 0
 114C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\webgl\WebGLBufferRenderer.js133640265583864376 0
-115C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\helpers\VertexNormalsHelper.js133640265581783007 0
 104C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\animation\AnimationAction.js133640265507623453 0
+115C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\helpers\VertexNormalsHelper.js133640265581783007 0
 112C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\webgl\WebGLCapabilities.js133640265584016412 0
 108C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\webgl\WebGLClipping.js133640265584108553 0
 105C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\loaders\TGALoader.js133640265577950579 0
@@ -261,12 +259,12 @@
 118C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\nodes\functions\BSDF\F_Schlick.js133640265527919410 0
 108C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\shaders\UniformsLib.js133640265580287307 0
 122C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\shaders\ShaderLib\background.glsl.js133640265509892726 0
-99C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\nodes\lighting133640265573227539 1
-112C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\webxr\XRHandModelFactory.js133640265588965350 0
 126C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\shaders\ShaderLib\backgroundCube.glsl.js133640265510028063 0
 108C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\shaders\OutputShader.js133640265563267349 0
 119C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\renderers\common\SampledTexture.js133640265569667525 0
 110C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\shaders\HalftoneShader.js133640265542791091 0
+99C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\nodes\lighting133640265573227539 1
+112C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\webxr\XRHandModelFactory.js133640265588965350 0
 116C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\shaders\ShaderLib\cube.glsl.js133640265522880690 0
 117C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\shaders\ShaderLib\depth.glsl.js133640265524263889 0
 124C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\shaders\ShaderLib\distanceRGBA.glsl.js133640265524848457 0
@@ -411,6 +409,7 @@
 139C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\shaders\ShaderChunk\lights_toon_pars_fragment.glsl.js133640265548913179 0
 137C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\shaders\ShaderChunk\logdepthbuf_pars_vertex.glsl.js133640265551318723 0
 105C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\extras\curves\EllipseCurve.js133640265526960203 0
+109C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\helpers\TextureHelper.js133640265577088501 0
 132C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\renderers\shaders\ShaderChunk\logdepthbuf_vertex.glsl.js133640265551358793 0
 123C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\nodes\utils\StorageArrayElementNode.js133640265574178159 0
 107C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\src\loaders\BufferGeometryLoader.js133640265514552800 0
@@ -844,6 +843,8 @@
 117C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\postprocessing\EffectComposer.js133640265526890198 0
 108C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\nodes\core\IndexNode.js133640265545833297 0
 111C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\postprocessing\FilmPass.js133640265528284334 0
+75C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\dist\index.e82f28a0.js133640612150756408 0
+113C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\postprocessing\GlitchPass.js133640265530237452 0
 111C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\postprocessing\GTAOPass.js133640265542282205 0
 114C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\postprocessing\TexturePass.js133640265577572594 0
 115C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\postprocessing\HalftonePass.js133640265542761090 0
@@ -966,6 +967,7 @@
 118C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\libs\motion-controllers.module.js133640265558662339 0
 110C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\nodes\core\NodeVarying.js133640265560337627 0
 112C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\nodes\core\ParameterNode.js133640265563540989 0
+66C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\src\style.css133640602232032236 0
 108C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\nodes\core\StackNode.js133640265573887836 0
 115C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\modifiers\EdgeSplitModifier.js133640265526840194 0
 110C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\nodes\core\UniformNode.js133640265580118321 0
@@ -1054,7 +1056,6 @@
 108C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\helpers\OctreeHelper.js133640265561709935 0
 117C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\helpers\PositionalAudioHelper.js133640265565699497 0
 115C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\helpers\RectAreaLightHelper.js133640265567240599 0
-109C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\helpers\TextureHelper.js133640265577088501 0
 116C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\helpers\VertexTangentsHelper.js133640265581825604 0
 106C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\helpers\ViewHelper.js133640265582111657 0
 114C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\jsm\geometries\BoxLineGeometry.js133640265512728700 0
@@ -1102,5 +1103,7 @@
 103C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\examples\fonts\droid\README.txt133640265594454451 0
 97C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\node_modules\three\build\three.module.min.js133640265578422244 0
 79C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\dist\3dthreejs.59712999.js133640266720619877 0
-68C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\dist\index.html133640266753569268 0
-79C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\dist\index.e82f28a0.js.map133640266757107163 0
+68C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\dist\index.html133640612057338383 0
+76C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\dist\index.2cdaf7bc.css133640612057354616 0
+80C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\dist\index.2cdaf7bc.css.map133640612057611057 0
+79C:\Users\pc\Desktop\2024\Proyectos basicos\3dthreejs\dist\index.e82f28a0.js.map133640612151078669 0
